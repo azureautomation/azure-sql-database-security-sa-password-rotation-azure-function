@@ -1,0 +1,20 @@
+{
+    "Author": "paperclips",
+    "ContentSize": 4067,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-sql-database-security-sa-password-rotation-azure-function/master/Set-AzureSqlAdminPassword.ps1",
+    "DownloadCount": 493,
+    "Id": "Azure-Sql-Database-47e01aea",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 344,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-7-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The function will loop through all Azure SQL instances in a single subscription or all subscriptions based on the parameter passed to the function. The script can also be added to an automation runbook and used for SQL server sa account password rotation on a schedule. The sa\u00a0a",
+    "Title": "Azure Sql Database security - sa password rotation - Azure - Function",
+    "UpdatedDate": "2019-7-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-sql-database-security-sa-password-rotation-azure-function",
+    "UserTags": "Security, Azure, Microsoft Azure"
+}
